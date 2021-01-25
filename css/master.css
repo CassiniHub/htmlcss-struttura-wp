@@ -18,7 +18,15 @@
 
 /* HEADER RULES*/
 header{
+  margin-bottom: 25px;
   /* debug rules */
   height: 100px;
   background-color: pink;
+}
+/* MAIN */
+.jumbotron{
+  margin-bottom: 25px;
+  /* jumbotron debug */
+  height: 500px;
+  background-color: #ffef6b;
 }
