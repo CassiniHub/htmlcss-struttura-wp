@@ -62,3 +62,10 @@ header{
   margin-bottom: 25px;
   background-color: lightblue;
 }
+
+/* FOOTER */
+footer{
+  /* debug rules */
+  height: 60px;
+  background-color: purple;
+}
