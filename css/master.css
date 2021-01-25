@@ -24,9 +24,41 @@ header{
   background-color: pink;
 }
 /* MAIN */
+/* JUMBOTRON */
 .jumbotron{
   margin-bottom: 25px;
-  /* jumbotron debug */
+  /* debug rules*/
   height: 500px;
   background-color: #ffef6b;
+}
+
+/* CONTENT */
+.title{
+  margin-bottom: 25px;
+  /* debug rules */
+  height: 80px;
+  background-color: lightblue;
+}
+
+.aside{
+  float: left;
+  /* debug rules */
+  height: 500px;
+  width: 20%;
+  margin-right: 2%;
+  background-color: lightblue;
+}
+
+.aside:last-child{
+  margin-right: 0;
+}
+
+.content{
+  float: left;
+  /* debug rules */
+  height: 500px;
+  width: 56%;
+  margin-right: 2%;
+  margin-bottom: 25px;
+  background-color: lightblue;
 }
