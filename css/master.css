@@ -40,13 +40,16 @@ header{
   background-color: lightblue;
 }
 
-.aside{
+.col{
   float: left;
-  /* debug rules */
   height: 500px;
-  width: 20%;
   margin-right: 2%;
   background-color: lightblue;
+}
+
+.aside{
+  /* debug rules */
+  width: 20%;
 }
 
 .aside:last-child{
@@ -54,13 +57,9 @@ header{
 }
 
 .content{
-  float: left;
   /* debug rules */
-  height: 500px;
   width: 56%;
-  margin-right: 2%;
   margin-bottom: 25px;
-  background-color: lightblue;
 }
 
 /* FOOTER */
