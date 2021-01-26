@@ -22,10 +22,6 @@ header{
   /* debug rules */
   height: 100px;
   background-color: pink;
-
-  width: 80%;
-  margin-left: auto;
-  margin-right: auto;
 }
 
 /* MAIN */
@@ -72,8 +68,4 @@ footer{
   /* debug rules */
   height: 60px;
   background-color: purple;
-  
-  width: 80%;
-  margin-left: auto;
-  margin-right: auto;
 }
